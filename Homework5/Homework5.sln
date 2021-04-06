@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Homework5\Arrays.csproj", "{2863B277-78D7-4B58-9C53-C8784C0274B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lists", "Lists\Lists.csproj", "{FD457D3B-BAFA-4F5E-8FF7-34146C025D46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionaries", "Dictionaries\Dictionaries.csproj", "{5A924CD2-2CCA-4DEA-9CE6-E92DD0F15A9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2863B277-78D7-4B58-9C53-C8784C0274B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2863B277-78D7-4B58-9C53-C8784C0274B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2863B277-78D7-4B58-9C53-C8784C0274B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2863B277-78D7-4B58-9C53-C8784C0274B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD457D3B-BAFA-4F5E-8FF7-34146C025D46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD457D3B-BAFA-4F5E-8FF7-34146C025D46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD457D3B-BAFA-4F5E-8FF7-34146C025D46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD457D3B-BAFA-4F5E-8FF7-34146C025D46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A924CD2-2CCA-4DEA-9CE6-E92DD0F15A9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A924CD2-2CCA-4DEA-9CE6-E92DD0F15A9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A924CD2-2CCA-4DEA-9CE6-E92DD0F15A9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A924CD2-2CCA-4DEA-9CE6-E92DD0F15A9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {960979A7-6133-463E-8BED-E46027788FEA}
+	EndGlobalSection
+EndGlobal
